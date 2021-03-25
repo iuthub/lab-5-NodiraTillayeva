@@ -18,22 +18,38 @@
 		<dl>
 			<dt>Name</dt>
 			<dd>
-				???
+				 <input type="text" id="username" name="username"><br>
 			</dd>
 			
 			<dt>Section</dt>
 			<dd>
-				???
+				<select id="section" name="section" required>
+ 					<option>MA</option>
+					<option>MB</option>
+  					<option>MC</option>
+  					<option>MD</option>
+  					<option>ME</option>
+					<option>MF</option>
+  					<option>MG</option>
+  					<option>MH</option>
+				</select>
 			</dd>
 			
 			<dt>Credit Card</dt>
 			<dd>
-				???
+				 <input type="text" id="carddetails" name="carddetails"><br>
+				 <label>
+    				<input type="radio" name="cardtype" value="visa"/>Visa
+				 </label>
+				 <label>
+    				<input type="radio" name="cardtype" value="master"/>Master
+				 </label>
 			</dd>
 		</dl>
 		
 		<div>
-			I am a giant sucker.
+			<button type="submit" form="form" value="Submit">I am a giant sucker.</button>
+			
 		</div>
 	</body>
 </html>
