@@ -1,0 +1,6 @@
+NodiraTillayeva;ME;12345623;Master
+YusufTillayev;MA;123123123;Master
+asdasd;MC;asdasd;Visa
+asdfgagafg;MB;asdasd;Visa
+KAmislssas;MG;2457256;Visa
+Ulugbek;MA;;Visa
